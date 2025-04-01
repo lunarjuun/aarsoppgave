@@ -1,0 +1,23 @@
+body
+{
+    background-color: rgb(213, 203, 191);
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 30px;
+    max-width: 600px; 
+    margin: auto;
+    background-color: #d3c6b4; 
+    border-radius: 10px; 
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+    font-size: 50px;
+}
